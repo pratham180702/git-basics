@@ -15,7 +15,8 @@ class Calculator:
 
     def divide(self, a, b):
         "this is the divide function"
-        pass
+        div = a/b
+        return div
 
     def multiply(self, a, b):
         "this is the multiply function"
