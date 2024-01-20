@@ -5,7 +5,8 @@ class Calculator:
     
     def add(self, a, b):
         "this is the add function"
-        pass
+        sum = a+b
+        return sum
 
     def subtract(self, a, b):
         "this is the subtract function"
