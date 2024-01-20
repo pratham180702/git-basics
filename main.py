@@ -20,7 +20,8 @@ class Calculator:
 
     def multiply(self, a, b):
         "this is the multiply function"
-        pass
+        mul = a*b
+        return mul
 
     def __str__(self):
         "welcome to the calculator"
