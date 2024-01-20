@@ -10,7 +10,8 @@ class Calculator:
 
     def subtract(self, a, b):
         "this is the subtract function"
-        pass
+        sub = a-b
+        return sub
 
     def divide(self, a, b):
         "this is the divide function"
